@@ -1,0 +1,17 @@
+# Backend
+backend/venv/
+backend/**/__pycache__/
+backend/.env
+backend/pesos/
+backend/static/*.mp3
+
+# Frontend
+frontend/node_modules/
+frontend/.angular/
+frontend/.vscode/
+frontend/dist/
+
+# General
+.vscode/
+.DS_Store
+Thumbs.db
